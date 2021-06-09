@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Helping Spoon</string>
+    <string name="website">https://the-helping-spoon-django.herokuapp.com/</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_feeds">Feeds</string>
+    <string name="menu_slideshow">My Account</string>
+    <string name="base_url">https://the-helping-spoon-django.herokuapp.com/</string>
+    <string name="first_slide_home">A spoon which serves the every citizen !!</string>
+    <string name="second_slide_home">If you can\'t feed a hundred people,then just feed one</string>
+    <string name="third_slide_home">Giving is not just a donation ,its about making difference</string>
+    <string name="how_we_work">
+        We aim to redistribute surplus food to those who are in need of it .
+        If you have excess food from an event, party, wedding, etc,
+        please call our helpline, volunteers .they will collect the excess
+        food from you and distribute aiming people who need it .
+        The excess food will be checked for quality because lack of proper refrigeration and
+        storage tends to spoil food. Here not only the giving part is done also you can take
+        food for the needy persons around you and help them .</string>
+    <string name="copyright_text"><h3>All rights reserved © |Space Rentals</h3></string>
+    <string name="feeds_title">Latest updates</string>
+    <string name="feeds_desc">Welcome, here are the latest activity</string>
+</resources>
